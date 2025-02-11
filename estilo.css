@@ -14,7 +14,7 @@ body{
 header{
     width: calc(100vw - 5rem);
     height: 96vh;
-    background-image: url(/imagens/topo.jpg);
+    background-image: url(imagens/topo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -108,7 +108,7 @@ main article h1{
 }
 
 .article--final{
-    background-image: url(/imagens/bg_detalhe.png);
+    background-image: url(imagens/bg_detalhe.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
